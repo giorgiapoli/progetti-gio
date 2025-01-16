@@ -1,0 +1,1 @@
+Versione 3 dell'esempio Meteo
